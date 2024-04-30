@@ -7,7 +7,7 @@ This repo is for p5.js animations that will be used in SCCA's 2024 Portshowlio w
 - Project Name: Space Type Generator
 - Original Repository: spacetypegenerator.github.io
 - Original Author: Kiel Mutchelknaus
-**All credits go to Kiel Mutschelknaus**
+- **All credits go to Kiel Mutschelknaus**
 
 Space Type Generator is an open-source project that provides interactive animations and typography effects. We are grateful to Kiel Mutchelknaus for making this project openly available for others to use and build upon.
 
